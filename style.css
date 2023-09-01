@@ -1,0 +1,45 @@
+body {
+    background-size: cover;
+}
+
+.copyright_footer {
+    position: fixed;
+    color: rgb(239, 146, 255);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(110, 0, 120);
+    line-height: 3;
+    text-align: center;
+}
+.btn-heading {
+    float: none;
+    margin-top: 0;
+    position: fixed;
+    background-color: rgb(23, 0, 45);
+    color: rgb(232, 208, 255);
+    width: 50%;
+    font-size: larger;
+    border-color: aliceblue;
+}
+
+.btn-1 {
+    background-color: rgb(108, 30, 180);
+    color: rgb(239, 146, 255);
+}
+
+.btn-2 {
+    background-color: rgb(208, 157, 255);
+    color: rgb(44, 7, 114);
+}
+
+.btn-3 {
+    background-color: rgb(241, 64, 232);
+    color: black;
+}
+
+canvas {
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px rgb(76, 10, 109);
+}
